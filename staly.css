@@ -1,0 +1,63 @@
+body .center_menu {
+  background: black;
+}
+body .ul_menu {
+  list-style-type: none;
+  display: inline-block;
+}
+body .text-div {
+  text-decoration: none;
+}
+body .button_bnt {
+  border-color: white;
+  width: 170px;
+  background: black;
+  color: white;
+}
+body .img_img {
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+}
+body .bnt_bnt {
+  background: red;
+  width: 200px;
+  height: 30px;
+  border-color: red;
+}
+body .col-menu {
+  width: 240px;
+  height: 150px;
+  border-radius: 10px;
+}
+body .icon_menu {
+  font-size: 50px;
+}
+body .img_text {
+  margin-top: 100px;
+  margin-left: 70px;
+}
+body .img_fon {
+  margin-left: 180px;
+  margin-top: 90px;
+  height: 500px;
+}
+body .bnt-bnt {
+  color: red;
+}
+body .img-hijob {
+  width: 200px;
+  height: 300px;
+  border-radius: 50%;
+}
+body .div_menu {
+  width: 300px;
+}
+body .input_div {
+  color: white;
+  background: black;
+  border-left: none;
+  border-top: none;
+  border-right: none;
+  width: 300px;
+}/*# sourceMappingURL=staly.css.map */
